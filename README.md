@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Brent – aka ShadetreeScience
+# 👋 Hi, I'm BHall – aka ShadetreeScience
 
 🚀 IT professional turned remote developer-in-training  
 💻 Learning by building real-world tools with Python and cybersecurity skills  
