@@ -26,6 +26,6 @@
 - 🔐 Personal security audit toolkit
 
 ## 📫 Contact Me
-- 📧 [brenton8274@yahoo.com](mailto:brenton8274@yahoo.com)
+- 📧 [shadetree748@gmail.com](mailto:shadetree748@gmail.com)
 - 🧑‍💻 [github.com/ShadetreeScience](https://github.com/ShadetreeScience)
 
