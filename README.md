@@ -19,6 +19,7 @@
 ## 🧭 Learning Now
 - [RemoteCoding.dev](https://remotecoding.dev) – Python, Git, REST APIs, web development  
 - [ZTM Ethical Hacking Bootcamp](https://zerotomastery.io/) – Cybersecurity, pentesting, tools & tactics
+- [Harvard CS50x](https://cs50.harvard.edu/x/2025/) - Introduction to Computer Science
 
 ## 🔗 Projects Coming Soon
 - ✅ Project Tahoe (Spotify + Breaks)
